@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/process.js": {
-      "runtime": "nodejs18.x"
-    }
-  }
-}
